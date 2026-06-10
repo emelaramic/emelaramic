@@ -1,54 +1,66 @@
+<div align="center">
+
 # Hi, I'm Emela 👋
 
-🎓 Third-year Computer and Information Technologies student at the Faculty of Transport and Communications.
+### 🎓 Third-Year Computer and Information Technologies Student
 
-💻 I am passionate about software development and continuously expanding my knowledge through university projects and personal learning. I enjoy building applications, solving problems, and learning modern technologies.
+💻 Passionate about Software Development • Mobile Development • Backend Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+and+Information+Technologies;Flutter+Developer+%7C+Backend+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-## 🚀 Technologies & Skills
+# 👩‍💻 About Me
 
-- C#
-- Java
-- Python
-- Dart
-- Flutter
+- 🎓 Third-year student at the **Faculty of Transport and Communications**
+- 💙 Major in **Computer and Information Technologies**
+- 💡 Passionate about building software and learning new technologies
+- 📱 Currently developing a mobile application using **Flutter & Dart**
+- 🚀 Interested in Mobile Development, Backend Development and Databases
+- 📚 Constantly improving my programming and problem-solving skills
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,java,python,dotnet,dart,flutter,js,html,css,mysql,git,github,vscode,visualstudio" />
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Flutter Development
+- Clean Architecture
 - ASP.NET Core Web API
-- JavaScript
-- HTML
-- CSS
-- MySQL
-- Git
-- GitHub
+- Software Engineering Best Practices
 
 ---
 
-## 🌱 Currently Working On
+# 🚀 Featured Projects
 
-- Mobile application development with Flutter & Dart
-- Applying Clean Architecture principles
-- Improving backend development skills
-
----
-
-## 📚 Areas of Interest
-
-- Mobile Development
-- Backend Development
-- Database Design
-- Web Development
-- Software Engineering
+| Project | Description |
+|----------|-------------|
+| **AmiClean** | Mobile application for a cleaning service built with Flutter and Dart using Clean Architecture. |
+| **Java Projects** | University projects focused on Object-Oriented Programming. |
+| **Web Projects** | Applications developed using HTML, CSS and JavaScript. |
+| **Database Projects** | SQL and MySQL projects for database design and management. |
 
 ---
 
-## 🎯 My Goal
+# 🎯 Career Goal
 
-My goal is to gain practical experience through internships and real-world projects while continuously improving my technical and problem-solving skills.
+I am looking for opportunities to gain practical experience through internships and real-world projects while continuing to improve my technical skills and grow as a software developer.
 
 ---
 
-## 📂 Projects
+<div align="center">
 
-This GitHub profile contains my university and personal projects that reflect my learning journey and development as a software engineering student.
+### ⭐ Thanks for visiting my profile!
 
-⭐ Thank you for visiting my profile!
+</div>
